@@ -1,7 +1,7 @@
-package org.kunnchan;
+package org.kunnchan.practice;
 /*
  * Created by kunnchan on 26/07/2020
- * package :  PACKAGE_NAME
+ * package :  org.kunnchan.practice
  */
 
 import org.junit.jupiter.api.BeforeEach;
@@ -138,5 +138,12 @@ public class MainTest {
     void testIsMadHavArray() {
         int result = main.isMadHavArray(new int[]{1, 2, 3});
         assertEquals(2, result);
+    }
+
+    @Test
+    void myTest() {
+        int i = 5;
+        char y = 9;
+        System.out.println(i + y);
     }
 }

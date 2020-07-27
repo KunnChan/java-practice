@@ -1,7 +1,7 @@
-package org.kunnchan;
+package org.kunnchan.practice;
 /*
  * Created by kunnchan on 26/07/2020
- * package :  PACKAGE_NAME
+ * package :  org.kunnchan.practice
  */
 
 public class Main {
